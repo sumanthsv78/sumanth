@@ -1,5 +1,1 @@
-hi sumanth
-testing again
-ready to testing
-updating from github to git bash
-updated done
+echo "heloo sumanth"
